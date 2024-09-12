@@ -13,7 +13,7 @@ where calculator class is not going to change for any additional operations(OCP)
 
 Getting Started
 
-Clone the project ,
+Clone the project  https://github.com/srivanih/FlexibleCalculator.git
 Build the project
 Run unit test cases to see the results.
 create local branch to add any additional operations.
