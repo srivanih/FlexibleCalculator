@@ -1,26 +1,36 @@
 # FlexibleCalculator
 
-Project Title FlexibleCalculator
+## **Project Title:** FlexibleCalculator
 
-Simple overview of use/purpose.
+## overview
 
-Flexible calculator perform the basic operations and chaning operations as well
+#### The Flexible Calculator is a Java-based,Spring Boot-powered application that provides a simple,extensible service for performing basic arithmetic operations.The calculator supports operations such as addition, subtraction, multiplication, and division. It also allows for chaining multiple operations together.
 
-Description
+## Description
 
-This project is implementing a Calculator class to perform basic operations like(ADD,SUBTRACT,MULTIPLY,DIVISION) 
+This project is implementing a Calculator class to perform basic operations like(ADD,SUBTRACT,MULTIPLY,DIVISION)
 where calculator class is not going to change for any additional operations(OCP)
 
-Getting Started
+## Environment & Dependencies
 
-Clone the project  https://github.com/srivanih/FlexibleCalculator.git
-Build the project
-Run unit test cases to see the results.
-create local branch to add any additional operations.
-Push the code to a remotebranch
+    Java 22
+    Maven3.3
+    Junit
+    Sprinngboot
 
-Dependencies
-Junit5.8
+## How to Run
+
+    1. Clone the repository  https://github.com/srivanih/FlexibleCalculator.git
+    2. Build and Run tests
+
+## Improvements:
+  
+    1.Add more operations
+    2.Add API's(controller) to call calculator Service
+    3.Directly pass the operations object(Addition/Subtraction) without enums(ADD,SUBTRACT,etc)
+    4.More Documentation
+    5.Logging
+    6.Custom Exception handling
 
 
 
